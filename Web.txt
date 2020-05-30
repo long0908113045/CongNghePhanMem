@@ -1,4 +1,8 @@
 day la code
 alo minh la long
+<<<<<<< HEAD
 long dep trai
 
+=======
+long long
+>>>>>>> 3852fe7fc948e9141b8122440a5a207db4d26cdc
